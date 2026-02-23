@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Job Application Tracker</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body class="bg-gray-300">
+
+  <div class="max-w-6xl mx-auto p-6">
+
+    <h1 class="text-3xl font-bold mb-6">Job Application Tracker</h1>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+      <div class="bg-white p-4 rounded-xl">
+        <p class="text-gray-500">TOTAL</p>
+        <h2 id="ttCount" class="text-2xl font-bold text-yellow-600">8</h2>
+      </div>
+
+      <div class="bg-white p-4 rounded-xl">
+        <p class="text-gray-500">INTERVIEW</p>
+        <h2 id="ivCount" class="text-2xl font-bold text-green-600">0</h2>
+      </div>
+
+      <div class="bg-white p-4 rounded-xl">
+        <p class="text-gray-500">REJECTED</p>
+        <h2 id="rjCount" class="text-2xl font-bold text-red-600">0</h2>
+      </div>
+
+    </div>
+
+    <div>
+
+      <img src="./Line 1.png" alt="">
+
+    </div>
+
+    <div class="flex justify-between items-center mb-2">
+      <h2 class="text-xl font-semibold">Available Jobs</h2>
+      <p id="tabCount" class="text-gray-500">8 jobs</p>
+    </div>
+
+    <div class="flex gap-3 mb-5">
+      <button class="tab bg-blue-200 px-4 py-1 rounded text-black " data-tab="all">ALL</button>
+      <button class="tab bg-blue-200 px-4 py-1 rounded text-black" data-tab="interview">INTERVIEW</button>
+      <button class="tab bg-blue-200 px-4 py-1 rounded text-black" data-tab="rejected">REJECTED</button>
+    </div>
+
+    <div id="jobContainer" class="space-y-5"></div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

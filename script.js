@@ -15,7 +15,7 @@ var jobs = [
 
 {id:7,status:"all",companyName:"Independent University Bangladesh",position:"Reels Reactor",location:"Dhaka",type:"Remote",salary:"৳31,000",description:"Rating and Reacting student's reel for no reason."},
 
-{id:8,status:"all",companyName:"BRAC University",position:"Cash Bucket Seller",location:"Dhaka",type:"Part-time",salary:"৳32,000",description:"Selling Bucket to the Students, So can they carry their semester fees."}
+{id:8,status:"all",companyName:"BRAC University",position:"Cash Bucket Seller",location:"Dhaka",type:"Part-time",salary:"৳32,000",description:"Selling Buckets to the Students, So that they can carry their semester fees."}
 ];
 
 const jobContainer = document.getElementById("jobContainer");

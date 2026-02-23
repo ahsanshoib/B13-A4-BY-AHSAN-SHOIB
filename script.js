@@ -70,7 +70,7 @@ ${job.location} • ${job.type} • ${job.salary}
 </div>
 
 <button onclick="deleteJob(${job.id})"
-class="hover:text-red-600 text-gray-400">🗑</button>
+class="hover:text-red-500 text-gray-400">🗑</button>
 </div>
 
 ${job.status === "interview" ? `

@@ -40,7 +40,7 @@ document.getElementById("rjCount").innerText = jobs.filter(function(j){ return j
 if(filtered.length === 0)
 {jobContainer.innerHTML=
 `<div class="bg-white p-10 rounded-xl text-center">
-<p class="text-4xl">📝</p>
+<p class="text-6xl">📝</p>
 <h2 class="text-xl font-semibold mt-2">No Jobs Available</h2>
 <p class="text-gray-500">Check back soon for new job opportunities</p></div>`;
 document.getElementById("tabCount").innerText =

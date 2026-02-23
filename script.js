@@ -1,15 +1,15 @@
 var currentTab = "all";
 
 var jobs = [
-{id:1,status:"all",companyName:"University of Dhaka",position:"Logical Activist",location:"Dhaka",type:"Remote",salary:"৳25,000",description:"Preventing SHAHBAAGI by using hyper logic"},
+{id:1,status:"all",companyName:"University of Dhaka",position:"Logical Activist",location:"Dhaka",type:"Remote",salary:"৳25,000",description:"Preventing SHAHBAAGI by using hyper logic."},
 
-{id:2,status:"all",companyName:"University of Chittagong",position:"Snack Hunter",location:"Chittagong",type:"Full-time",salary:"৳26,000",description:"Catching Snack(Ex) from Pookie Faculty"},
+{id:2,status:"all",companyName:"University of Chittagong",position:"Snack Hunter",location:"Chittagong",type:"Full-time",salary:"৳26,000",description:"Catching Snack(Ex) from Pookie Facult.y"},
 
-{id:3,status:"all",companyName:"University of Rajshahi",position:"Mango Smuggler",location:"Rajshahi",type:"Part-time",salary:"৳27,000",description:"Smuggling Mango by 2.00AM route of 'BONOLOTA EXPRESS' "},
+{id:3,status:"all",companyName:"University of Rajshahi",position:"Mango Smuggler",location:"Rajshahi",type:"Part-time",salary:"৳27,000",description:"Smuggling Mango by 2.00AM route of 'BONOLOTA EXPRESS'. "},
 
-{id:4,status:"all",companyName:"Jahangirnagar University",position:"Narcotics Inspector",location:"Savar",type:"Full-time",salary:"৳28,000",description:"Punishing Weed Sellers from Fine-Arts Department"},
+{id:4,status:"all",companyName:"Jahangirnagar University",position:"Narcotics Inspector",location:"Savar",type:"Full-time",salary:"৳28,000",description:"Punishing Weed Sellers from Fine-Arts Department."},
 
-{id:5,status:"all",companyName:"North South University",position:"Flashmob Cinematographer ",location:"Dhaka",type:"Full-time",salary:"৳29,000",description:"Capturing Random 'SENIOR APU's Moment while performing 'BOSHONTO UTSHOB DANCE'"},
+{id:5,status:"all",companyName:"North South University",position:"Flashmob Cinematographer ",location:"Dhaka",type:"Full-time",salary:"৳29,000",description:"Capturing Random 'SENIOR APU's Moment while performing 'BOSHONTO UTSHOB DANCE'."},
 
 {id:6,status:"all",companyName:"Daffodil International University",position:"Convocation Organizer",location:"Dhaka",type:"Part-time",salary:"৳32,000",description:"Organizing 13 Convocation in 12 months."},
 

@@ -3,7 +3,7 @@ var currentTab = "all";
 var jobs = [
 {id:1,status:"all",companyName:"University of Dhaka",position:"Logical Activist",location:"Dhaka",type:"Remote",salary:"৳25,000",description:"Preventing SHAHBAAGI by using hyper logic."},
 
-{id:2,status:"all",companyName:"University of Chittagong",position:"Snack Hunter",location:"Chittagong",type:"Full-time",salary:"৳26,000",description:"Catching Snack(Ex) from Pookie Facult.y"},
+{id:2,status:"all",companyName:"University of Chittagong",position:"Snack Hunter",location:"Chittagong",type:"Full-time",salary:"৳26,000",description:"Catching Snack(Ex) from Pookie Faculty."},
 
 {id:3,status:"all",companyName:"University of Rajshahi",position:"Mango Smuggler",location:"Rajshahi",type:"Part-time",salary:"৳27,000",description:"Smuggling Mango by 2.00AM route of 'BONOLOTA EXPRESS'. "},
 

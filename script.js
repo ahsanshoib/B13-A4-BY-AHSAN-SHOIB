@@ -62,7 +62,7 @@ div.innerHTML=
 <h3 class="font-bold text-lg">${job.companyName}</h3>
 <p class="text-gray-600">${job.position}</p>
 
-<p class="text-sm text-gray-500">
+<p class="text-sm text-gray-600">
 
 ${job.location} • ${job.type} • ${job.salary}
 

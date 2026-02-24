@@ -91,7 +91,7 @@ Rejected
 
 ${job.description}</p>
 
-<div class="mt-4 flex gap-3">
+<div class="mt-4 flex flex-col md:flex-row gap-3">
 
 <button onclick="setStatus(${job.id},'interview')"
 class="border border-green-500 text-green-600 px-3 py-1 rounded-md hover:bg-green-500 hover:text-white transition">
